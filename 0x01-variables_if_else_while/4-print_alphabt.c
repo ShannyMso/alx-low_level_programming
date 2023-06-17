@@ -5,7 +5,7 @@
  *
  * Return: 0 on success
  */
-int Main(void)
+int main(void)
 {
 	char ch = 'a';
 
